@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QR Proyect</string>
+    <string name="realizar_p">Realizar Pedido</string>
+    <string name="ver_p">Ver Pedidos</string>
+    <string name="cliente">CLIENTE</string>
+    <string name="admin">ADMINISTRADOR</string>
+    <string name="add">Agregar Pedidos</string>
+    <string name="estadisitca">Estadistica \n Diaria</string>
+</resources>
